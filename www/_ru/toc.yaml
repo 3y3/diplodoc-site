@@ -1,0 +1,20 @@
+navigation:
+  logo:
+    url: '/diplodoc-site/ru/'
+    dark:
+      icon: '/diplodoc-site/_assets/diplodoc-dark.png'
+    light:
+      icon: '/diplodoc-site/_assets/diplodoc-light.png'
+  header:
+    leftItems:
+      - text: 'Documentation'
+        type: 'link'
+        url: '/diplodoc-site/ru/about'
+    rightItems:
+      - type: controls
+items:
+  - name: index
+    href: index.yaml
+    hidden: true
+  - name: О платформе
+    href: about.md
