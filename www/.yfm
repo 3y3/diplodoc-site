@@ -5,3 +5,4 @@ allowCustomResources: true
 resources:
   style:
     - _assets/main.css
+    - _assets/theme.css
