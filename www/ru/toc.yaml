@@ -1,4 +1,23 @@
 title: My Diplodoc Site
+navigation:
+  logo:
+    url: 'https://example.com'
+    dark:
+      icon: 'https://storage.yandexcloud.net/cloud-www-assets/constructor/storybook/images/icon_1_dark.svg'
+      text: 'ModelsJS'
+    light:
+      icon: 'https://storage.yandexcloud.net/cloud-www-assets/constructor/storybook/images/icon_1_light.svg'
+      text: 'ModelsJS'
+  header:
+    leftItems:
+      - text: 'Link3'
+        type: 'link'
+        url: 'diagram'
+      - text: 'Link4'
+        type: 'link'
+        url: 'inner/test'
+    rightItems:
+      - type: controls
 items:
   - name: index
     href: index.yaml
