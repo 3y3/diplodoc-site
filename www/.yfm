@@ -1,2 +1,7 @@
 langs: ['ru']
 outputFormat: html
+
+allowCustomResources: true
+resources:
+  style:
+    - assets/main.css
