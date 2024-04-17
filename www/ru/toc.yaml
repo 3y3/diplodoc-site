@@ -14,7 +14,7 @@ navigation:
         url: '../../how-to/'
       - text: 'Документация'
         type: 'link'
-        url: '/diplodoc-site/ru/'
+        url: '/diplodoc-site/ru/about'
       - text: 'Тelegram'
         type: 'link'
         url: 'https://t.me/diplodoc_ru'
