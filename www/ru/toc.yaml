@@ -1,0 +1,5 @@
+title: My Diplodoc Site
+items:
+  - name: index
+    href: index.yaml
+    hidden: true
