@@ -1,4 +1,3 @@
-title: My Diplodoc Site
 navigation:
   logo:
     url: 'https://example.com'
@@ -10,15 +9,14 @@ navigation:
       text: 'ModelsJS'
   header:
     leftItems:
-      - text: 'Link3'
+      - text: 'Documentation'
         type: 'link'
-        url: 'diagram'
-      - text: 'Link4'
-        type: 'link'
-        url: 'inner/test'
+        url: './ru/about'
     rightItems:
       - type: controls
 items:
   - name: index
     href: index.yaml
     hidden: true
+  - name: О платформе
+    href: about.md

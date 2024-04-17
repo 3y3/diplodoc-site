@@ -4,4 +4,4 @@ outputFormat: html
 allowCustomResources: true
 resources:
   style:
-    - assets/main.css
+    - _assets/main.css
