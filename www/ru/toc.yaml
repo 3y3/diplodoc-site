@@ -3,10 +3,8 @@ navigation:
     url: '/diplodoc-site/ru/'
     dark:
       icon: '/diplodoc-site/_assets/diplodoc-dark.png'
-      text: 'Diplodoc'
     light:
       icon: '/diplodoc-site/_assets/diplodoc-light.png'
-      text: 'Diplodoc'
   header:
     leftItems:
       - text: 'Documentation'
